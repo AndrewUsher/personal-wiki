@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   themeConfig: {
     navbar: {
