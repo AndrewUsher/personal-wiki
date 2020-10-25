@@ -1,15 +1,13 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Personal Wiki',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Personal Wiki',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -20,11 +18,6 @@ module.exports = {
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
-        },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
         },
       ],
     }
@@ -37,7 +30,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/AndrewUsher/personal-wiki/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
