@@ -8,6 +8,7 @@ module.exports = {
     Personal: [
       'personal/bucket-list'
     ],
-    Recipes: ['recipes/grape-jelly-little-smokies','recipes/oven-roasted-tomatoes']
+    Recipes: ['recipes/grape-jelly-little-smokies','recipes/oven-roasted-tomatoes'],
+    Work: ['work/improving-async-communication']
   },
 };
