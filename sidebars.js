@@ -5,6 +5,9 @@ module.exports = {
       'course-notes/intro-to-scrum',
       'course-notes/js-the-new-hard-parts'
     ],
+    Life: [
+      'life/the-strength-of-incomplete'
+    ],
     Personal: [
       'personal/bucket-list'
     ],
