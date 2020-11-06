@@ -12,6 +12,9 @@ module.exports = {
       'personal/bucket-list'
     ],
     Recipes: ['recipes/grape-jelly-little-smokies','recipes/oven-roasted-tomatoes'],
+    Redux: [
+      'redux/action-creators'
+    ],
     Work: ['work/improving-async-communication']
   },
 };
