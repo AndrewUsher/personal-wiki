@@ -1,5 +1,5 @@
 ---
-id:
+id: 'index'
 title: Home
 slug: /
 ---
